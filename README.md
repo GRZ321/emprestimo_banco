@@ -6,7 +6,15 @@ Seu relatório será considerado ao criar uma pontuação de crédito de um clie
 
 Responda a estas perguntas:
 Existe alguma relação entre ter filhos e pagar um empréstimo em dia?
+
+
 Existe alguma relação entre o estado civil e o pagamento de um empréstimo no prazo estipulado?
+
+
 Existe uma relação entre o nível de renda e o pagamento de um empréstimo no prazo?
+
+
 Como as diferentes finalidades do empréstimo afetam o pagamento pontual do empréstimo?
+
+
 Interprete suas respostas. Explique o que significam os resultados obtidos.
